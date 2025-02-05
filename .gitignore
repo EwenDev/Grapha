@@ -1,0 +1,5 @@
+.vscode
+.idea
+.venv
+matrice_statique_0.py
+**/__pycache__/
